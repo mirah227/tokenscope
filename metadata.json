@@ -1,0 +1,6 @@
+{
+  "name": "TokenScope Solana Intelligence Terminal",
+  "description": "Institutional smart-contract security watchlist, real-time threat detection, and mempool telemetry for Solana digital assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
